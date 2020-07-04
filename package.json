@@ -1,0 +1,22 @@
+{
+  "name": "gomycodefirstcp",
+  "version": "1.0.0",
+  "description": "GoMyC{}de Web 2 First CheckPoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maalej1995/GoMyCodeFirstCP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maalej1995/GoMyCodeFirstCP/issues"
+  },
+  "homepage": "https://github.com/Maalej1995/GoMyCodeFirstCP#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
